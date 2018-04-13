@@ -14,4 +14,4 @@ logging:
 greeting:
  displayFortune: true
 
-quoteServiceURL: https://www.google.com/url?q=http://quote-service-qa-solstice.cfapps.io/quote&sa=D&ust=1523646209504000&usg=AFQjCNGDznQ9hBKOJBFO_EclRd1vFBS-oQ
+quoteServiceURL: http://quote-service-qa-solstice.cfapps.io/quote
